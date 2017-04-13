@@ -1,21 +1,15 @@
 # Data_Science_NEC
-# Deadline 14 april 12.00
 
 ## Deliverables:
-* Data munging
-* Statistische analyse
-* Minimaal 2 machine learning technieken + onderbouwing
-* visualisatie en simulatie + onderbouwing
+* NoteBook (IpyNB en HTML)
+* Documentatie (PDF)
+* Gebruikte dataset (XML naar CSV's)
 
-## Documentatie
-* Voorbewerkingen data
-* Architectuur van de data science pipeline
-  + ReadMe.md
-  + evt. Installatiehandleiding
-  + Requirements.txt t.b.v.
-  + [Inspiratie!](http://docs.pythonguide.org/en/latest/writing/structure/)
-* Beschrijving evt. extra databronnen
-
+## Guide:
+**Om de NoteBook te kunnen gebruiken:**
+1. Clone de repository
+2. Open de NEC Notebook versie 3.IPYNB in Jupyter NoteBook (Anaconda installatie aanbevolen)
+3. Ga naar de navigatiebalk en selecteer 'CELL' en dan 'Run All'.
 
 ## Beoordeling
 criterium | weging % | voorbeeld
